@@ -29,7 +29,7 @@ namespace Inheritance_Computing
         public void DisplayInfo()
         {
             Console.WriteLine("\n----Sleepers Info----\n");
-            Console.WriteLine($"Price: {Price}, Discount: {Discount}");
+            Console.WriteLine($"\nPrice: {Price}, \nDiscount: {Discount}");
         }
     }
 
