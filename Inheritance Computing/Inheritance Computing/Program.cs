@@ -20,6 +20,7 @@ namespace Inheritance_Computing
                 sandugo.Price = Convert.ToDouble(Console.ReadLine());
                 TotalCost = sandugo.Price * sandugo.Discount;
 
+                 sandugo.DisplayInfo();
                 Console.WriteLine($"Total Cost after discount: {TotalCost}");
 
             }
