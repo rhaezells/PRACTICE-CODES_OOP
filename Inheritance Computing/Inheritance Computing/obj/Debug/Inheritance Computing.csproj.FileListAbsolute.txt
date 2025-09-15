@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\bin\Debug\Inheritance Computing.exe.config
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\bin\Debug\Inheritance Computing.exe
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\bin\Debug\Inheritance Computing.pdb
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\obj\Debug\Inheritance Computing.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\obj\Debug\Inheritance Computing.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\obj\Debug\Inheritance Computing.exe
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\obj\Debug\Inheritance Computing.pdb
+C:\Users\ACT-STUDENT\Desktop\Inheritance Computing\Inheritance Computing\Inheritance Computing\obj\Debug\Inheritance Computing.exe.config
